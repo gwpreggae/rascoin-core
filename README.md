@@ -4,19 +4,20 @@ Rascoin integration/staging tree
 http://www.rascoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Rascoin Developers
+Copyright (c) 2011-2014 Litecoin Developers
+Copyright (c) 2019 Rascoin Developers
 
 What is Rascoin?
 ----------------
 
 Rascoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
+ - 5 minute block targets
+ - subsidy halves in X blocks
+ - ~144 million total coins
+ - 33 coins per block
 The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 33 coins per block
+ - X blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
 the Rascoin client sofware, see http://www.rascoin.org.
