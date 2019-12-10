@@ -1,0 +1,9 @@
+Building Rascoin
+
+See doc/readme-qt.rst for instructions on building Rascoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Rascoin.
+
+See doc/build-*.txt for instructions on building rascoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Rascoin.
