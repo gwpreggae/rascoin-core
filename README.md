@@ -12,12 +12,10 @@ What is Rascoin?
 
 Rascoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 5 minute block targets
- - subsidy halves in X blocks
+ - subsidy halves in 700000 blocks
  - ~144 million total coins
  - 33 coins per block
-The rest is the same as Bitcoin.
- - 33 coins per block
- - X blocks to retarget difficulty
+ - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
 the Rascoin client sofware, see http://www.rascoin.org.
